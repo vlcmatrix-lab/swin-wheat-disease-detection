@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs (figures, metrics, predictions, model weights)
+outputs/
+results/
+
+# Data (link to official sources in the README instead)
+data/
+datasets/
+*.csv
+*.dcm
+*.nii
+*.nii.gz
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.h5
+
+# Secrets
+.env
+kaggle.json
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Data-Efficient Wheat Disease Detection Using Shifted Window Transformer: Enhancing Accuracy, Sustainability, and Global Food Security"
+type: software
+license: MIT
+repository-code: "https://github.com/vlcmatrix-lab/swin-wheat-disease-detection"
+authors:
+  - family-names: Khubaib
+    given-names: Muhammad
+  - family-names: Kehkashan
+    given-names: Tanzila
+  - family-names: Abdelhaq
+    given-names: Maha
+  - family-names: Khan
+    given-names: Muhammad Asghar
+  - family-names: Zaman
+    given-names: Muhammad
+  - family-names: Ashraf
+    given-names: Imran
+  - family-names: Rehman
+    given-names: Abdul
+  - family-names: Akhunzada
+    given-names: Adnan
+keywords:
+  - wheat disease detection
+  - Swin Transformer
+  - deep learning
+  - precision agriculture
+preferred-citation:
+  type: article
+  title: "Data-Efficient Wheat Disease Detection Using Shifted Window Transformer: Enhancing Accuracy, Sustainability, and Global Food Security"
+  authors:
+    - family-names: Khubaib
+      given-names: Muhammad
+    - family-names: Kehkashan
+      given-names: Tanzila
+    - family-names: Abdelhaq
+      given-names: Maha
+    - family-names: Khan
+      given-names: Muhammad Asghar
+    - family-names: Zaman
+      given-names: Muhammad
+    - family-names: Ashraf
+      given-names: Imran
+    - family-names: Rehman
+      given-names: Abdul
+    - family-names: Akhunzada
+      given-names: Adnan
+  journal: "IEEE Transactions on Consumer Electronics"
+  volume: 71
+  issue: 3
+  start: 9006
+  end: 9020
+  year: 2025
+  publisher:
+    name: IEEE
+  doi: "10.1109/TCE.2025.3582267"
+  url: "https://ieeexplore.ieee.org/document/11048568"
